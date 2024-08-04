@@ -16,7 +16,7 @@ function HomePage() {
         Hi! 
         I'm Sukumar
         </h1>
-        <p>I'm <span style={{fontWeight:'500', color:'green'}}>{text}</span> <cursor/>  </p>
+        <p style={{fontSize:'1.3rem',}}>I'm <span style={{fontWeight:'500', fontSize:'1.3rem'  ,color:'#123c69'}}>{text}</span> <cursor/>  </p>
 
     </div>
   );
